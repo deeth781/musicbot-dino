@@ -1,6 +1,6 @@
 {
-  "TOKEN": "",
-  "MAX_PLAYLIST_SIZE": 10,
+  "TOKEN": "MTEwNDY1NTUxMzM4NTQzNTE3Ng.G6RuOq.WaswYfwKU1iyCRjXsbKtayr5JuEpcTLMGSsN5k",
+  "MAX_PLAYLIST_SIZE": 20,
   "PREFIX": "/",
   "PRUNING": false,
   "LOCALE": "en",
